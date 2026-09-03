@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31801395/README.md)
+
 # Edge AI Experiments
 
 A collection of hands-on experiments exploring Edge AI, on-device machine learning, embedded systems, and resource-constrained computing.
